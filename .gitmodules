@@ -1,0 +1,9 @@
+[submodule "borealis-vscode"]
+	path = borealis-vscode
+	url = git@github.com:eckertalex/borealis-vscode.git
+[submodule "borealis-kitty"]
+	path = borealis-kitty
+	url = git@github.com:eckertalex/borealis-kitty.git
+[submodule "borealis-iterm"]
+	path = borealis-iterm
+	url = git@github.com:eckertalex/borealis-iterm.git
