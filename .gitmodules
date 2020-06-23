@@ -7,3 +7,6 @@
 [submodule "borealis-iterm"]
 	path = borealis-iterm
 	url = git@github.com:eckertalex/borealis-iterm.git
+[submodule "borealis-tmTheme"]
+	path = borealis-tmTheme
+	url = git@github.com:eckertalex/borealis-tmTheme.git
