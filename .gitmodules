@@ -16,3 +16,6 @@
 [submodule "borealis-firefox"]
 	path = borealis-firefox
 	url = https://github.com/eckertalex/borealis-firefox
+[submodule "borealis-chrome"]
+	path = borealis-chrome
+	url = git@github.com:eckertalex/borealis-chrome.git
