@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Borealis Theme 👋</h1>
 <p>
-  <a href="https://github.com/eckertalex/borealis-theme/blob/main/LICENSE" target="_blank">
+  <a href="https://github.com/eckertalex/borealis-theme/blob/main/LICENSE.md" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://twitter.com/eckertalex_" target="_blank">
@@ -8,8 +8,10 @@
   </a>
 </p>
 
-> The theme is designed to be easy on the eyes thus reducing the eye strain.
-> The aurora borealis served as the inspiration for this theme, with it's teal like colors, mixed with violets, pink, greens, and the dark of the night sky in Alaska.
+> The theme is designed to be easy on the eyes thus reducing the eye strain. The
+> aurora borealis served as the inspiration for this theme, with it's teal like
+> colors, mixed with violets, pink, greens, and the dark of the night sky in
+> Alaska.
 
 ![Borealis](./assets/img/borealis.jpg)
 
@@ -94,8 +96,10 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright &copy; 2020 [eckertalex](https://github.com/eckertalex).<br /> This project is
-[MIT](https://github.com/eckertalex/borealis-theme/blob/main/LICENSE) licensed.
+Copyright &copy; 2020 [eckertalex](https://github.com/eckertalex).<br /> This
+project is
+[MIT](https://github.com/eckertalex/borealis-theme/blob/main/LICENSE.md)
+licensed.
 
 ---
 
