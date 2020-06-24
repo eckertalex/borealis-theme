@@ -10,3 +10,6 @@
 [submodule "borealis-tmTheme"]
 	path = borealis-tmTheme
 	url = git@github.com:eckertalex/borealis-tmTheme.git
+[submodule "borealis-duckduckgo"]
+	path = borealis-duckduckgo
+	url = git@github.com:eckertalex/borealis-duckduckgo.git
