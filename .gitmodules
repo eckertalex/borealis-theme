@@ -15,7 +15,7 @@
 	url = git@github.com:eckertalex/borealis-duckduckgo.git
 [submodule "borealis-firefox"]
 	path = borealis-firefox
-	url = https://github.com/eckertalex/borealis-firefox
+	url = git@github.com:eckertalex/borealis-firefox.git
 [submodule "borealis-chrome"]
 	path = borealis-chrome
 	url = git@github.com:eckertalex/borealis-chrome.git
